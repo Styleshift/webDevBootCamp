@@ -1,0 +1,29 @@
+6. How many folders in the Chickens folder. 
+6
+
+7.Which files in the chickens folder has the oldest modification time?
+ls-t
+Elvis is the oldest (Video's answer. There is something wrong with the files. 2071)
+
+9. How many files are in the geese directory?
+4 text files
+
+10 one of the geese is sitting on a golden egg. It's larger than the other geese. Which one is it?
+Which files in the Geese folder is the largest?
+ls -s
+
+Muffin
+
+12. How many horses are in the horses directory?
+
+4 horses
+
+13. Wait! There is a hidden horse in the horses directory! What is it's name??
+ls -a
+
+.Troy
+
+Bonus (comma seperated horse contents folder)
+
+ls -m
+Archer, Buttons, Cookie, Jett
